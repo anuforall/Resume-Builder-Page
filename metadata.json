@@ -1,0 +1,5 @@
+{
+  "name": "Resume Builder",
+  "description": "An AI-powered tool to help users create professional resumes. Users can input their details, choose a template, and use AI to generate key sections. The final resume can be previewed and downloaded as a PDF.",
+  "requestFramePermissions": []
+}
